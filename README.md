@@ -6,6 +6,8 @@ Hi 👋
 
 I am developing codes using : Pandas, NumPy, Matplotlib or yFinance
 
+Do not hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/tom-poupard/)
+
 
 
 
